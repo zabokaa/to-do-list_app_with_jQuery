@@ -10,7 +10,10 @@
 - to dip into jQuery library and append it 
 
 ## key features
-- xxxxx
+- add an item to a list
+- mark an item as done
+- delete an item from the list
+- change the order of items in the list
 
 ## project status
 project is: _in progress
