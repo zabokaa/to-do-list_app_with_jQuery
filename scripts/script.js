@@ -1,6 +1,10 @@
-$('input').addClass('red');
+// USING jQUERY ONLY
 
-// Below, only make the .main-button green
-$(".main-button").addClass("green")
-// Below, make the text of all buttons yellow
-$("button").addClass("text--yellow")
+
+// [1] user can add new item to the list
+
+// [2] user can cross out an item with x
+
+// [3] user can delete an item 
+
+// [4] user can change the order of items in the list
