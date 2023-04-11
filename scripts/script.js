@@ -33,4 +33,4 @@ function deleteListItem(){
     }
 // [4] user can change the order of items in the list
 $('#list').sortable();
-}c
+}
