@@ -1,4 +1,7 @@
 # :purple_circle: *to-do-list app* :purple_circle:
+
+![deployed app](./assets/img/deployedapp.png?raw=true "pic of deployed app")
+
 ## table of contents
 * [objective](#objective)
 * [key features](#key-features)
